@@ -1,2 +1,3 @@
 # Laboratorio3
-Jenyfer Esthefany Rodriguez Ramon - Maria Cristina Vega Huaman
+Jenyfer Esthefany Rodriguez Ramon
+Maria Cristina Vega Huaman
